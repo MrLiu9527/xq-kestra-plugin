@@ -18,7 +18,7 @@ import org.slf4j.Logger;
 @NoArgsConstructor
 @Schema(
     title = "Short description for this task",
-    description = "Full description of this task"
+    description = "早见星桥"
 )
 @Plugin(
     examples = {
